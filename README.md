@@ -34,7 +34,7 @@ B.Tech AI & ML - NRI Institute of Technology (75.96%) | 2x Publications Lead Aut
 `Java` `Python` `JavaScript` `SQL` `Spring Boot` `React` `Node.js` `Express` `FastAPI` `TensorFlow` `OpenCV` `MongoDB` `MySQL` `Git`
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KodaliSuchitraKamala&layout=compact)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KodaliSuchitraKamala&theme=github)
 
 ### 🔗 Connect
 **Portfolio:** [my-portfolio-1325.netlify.app](https://my-portfolio-1325.netlify.app) | **LinkedIn:** [kodali-suchitra-kamala](https://linkedin.com/in/kodali-suchitra-kamala-5aab62299) | **LeetCode:** 100+ problems solved
