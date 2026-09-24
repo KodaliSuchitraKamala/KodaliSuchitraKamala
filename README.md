@@ -33,8 +33,18 @@ B.Tech AI & ML - NRI Institute of Technology (75.96%) | 2x Publications Lead Aut
 ### 🛠️ Tech Stack - Same as Resume v1
 `Java` `Python` `JavaScript` `SQL` `Spring Boot` `React` `Node.js` `Express` `FastAPI` `TensorFlow` `OpenCV` `MongoDB` `MySQL` `Git`
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KodaliSuchitraKamala&theme=github)
+### 📊 GitHub at a Glance
+- 🚀 4 Production Projects | 92% / 89% / 94% AI Accuracy
+- 📚 2x Publications Lead Author | 📄 Patent Applicant July 2025
+- 💻 100+ LeetCode | Deloitte Virtual Intern - 10K+ Rows
+
+### 🛠️ Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 
 ### 🔗 Connect
 **Portfolio:** [my-portfolio-1325.netlify.app](https://my-portfolio-1325.netlify.app) | **LinkedIn:** [kodali-suchitra-kamala](https://linkedin.com/in/kodali-suchitra-kamala-5aab62299) | **LeetCode:** 100+ problems solved
